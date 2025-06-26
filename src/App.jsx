@@ -94,6 +94,46 @@ function App() {
         </section>
         <section id="blog" className="blog">
           <h2>Блог</h2>
+           <div className="post">
+            <div className="left">
+              <h3>Япония</h3>
+              <p>Японская кухня — это гармония вкуса, свежести и эстетики. Попробуйте суши, рамен и традиционный чайный ритуал.</p>
+              <a href="#">Подробнее...</a>
+            </div>
+            <div className="right">
+              <img src="https://www.telegraph.co.uk/content/dam/travel/2025/04/25/TELEMMGLPICT000421224693_17455902368470_trans_NvBQzQNjv4BqRo0U4xU-30oDveS4pXV-Vv4Xpit_DMGvdp2n7FDd82k.jpeg?imwidth=640" alt="Япония" />
+            </div>
+          </div>
+          <div className="post2">
+            <div className="left">
+              <img src="https://cdn2.tu-tu.ru/image/pagetree_node_data/1/cda2d464a60b2a30db32dc1a107215f6/" alt="Италия" />
+            </div>
+            <div className="right">
+              <h3>Италия</h3>
+              <p>Паста, пицца, тирамису — итальянская кухня известна во всем мире своей простотой и насыщенным вкусом.</p>
+              <a href="#">Подробнее...</a>
+            </div>
+          </div>
+          <div className="post3">
+            <div className="left">
+              <h3>Марокко</h3>
+              <p>Марокканская кухня — это специи, тажин и мята. Откройте для себя новые вкусы и ароматы Востока.</p>
+              <a href="#">Подробнее...</a>
+            </div>
+            <div className="right">
+              <img src="https://i.ytimg.com/vi/VzV9i5AOBsA/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDL8JrhUMgmSbbvRDi-1EWXXVyIeg" alt="Марокко" />
+            </div>
+          </div>
+          <div className="post">
+            <div className="left">
+              <img src="https://i.ytimg.com/vi/C6K_s6At_9k/sddefault.jpg" alt="Мексика" />
+            </div>
+            <div className="right">
+              <h3>Мексика</h3>
+              <p>Острая, яркая и насыщенная мексиканская кухня подарит вам бурю вкусовых ощущений — от тако до чуррос.</p>
+              <a href="#">Подробнее...</a>
+            </div>
+          </div>
           <div className="post">
             
             <div className="left">
@@ -125,6 +165,7 @@ function App() {
               <img src="../p.png" alt="" />
             </div>
           </div>
+          
         </section>
 
       

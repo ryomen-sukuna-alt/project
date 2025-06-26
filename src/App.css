@@ -213,7 +213,6 @@ button:hover {
 
 .post,.post2,.post3 {
   display: flex;
-  
   width: auto;
   margin: 10px 0;
 }
